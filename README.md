@@ -4,13 +4,11 @@
 
 ## :rocket: Descrição do projeto
 
-É criado um herói com nome e quantidade de XP, depois o nível é classificado de acordo com a quantidade de XP. Projeto faz parte do desafio de código da DIO.
+É criado um herói com nome e quantidade de XP, depois o nível é classificado de acordo com a quantidade de XP. Projeto faz parte do desafio de código da [DIO](https://dio.me).
 
-# :books: Tecnologias necessárias para executar
+## :books: Tecnologias necessárias para executar
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)]
-
-[![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=nodedotjs&logoColor=white)]
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
 ## :speech_balloon: Conheça mais dos meus projetos
